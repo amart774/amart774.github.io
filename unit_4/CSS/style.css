@@ -1,14 +1,41 @@
 body {
-background-color: grey	;
 font-family: Arial; 
 }
 
-nav {
-	color: white;
+header {
+	background-color: #FFED74;
+	border: 1px black solid;
+	padding: 20px;
 }
 
-h1, p {
-	color: black;
+nav {
+	background-color: #E8C66A;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+aside{
+	background-color: #FFC675
+	border: 1px black solid;
+	padding:20px;
+}
+
+article{
+	background-color: #E89C6C;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+footer{
+	background-color: #FF957E;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+section {
+	background-color: #FFE2B8
+	border: 1px black solid;
+	padding:20px;
 }
 
 h1 {
@@ -18,7 +45,7 @@ h1 {
 
 h2 {
 	color: white
-	font:'https://fonts.googleapis.com/css?family=Anton'
+	font:"https://fonts.googleapis.com/css?family=Anton"
 }
 
 h3{
@@ -29,14 +56,11 @@ li {
 
 }
 
-
 img{
 	width: 50%
 }
 
-footer{
-	
-}
+
 
 
 
