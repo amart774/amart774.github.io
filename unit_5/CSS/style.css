@@ -20,6 +20,7 @@ aside{
 	padding:20px;
 }
 
+
 article{
 	background-color: #E89C6C;
 	border: 1px black solid;
@@ -38,6 +39,7 @@ section {
 	padding:20px;
 }
 
+ - /*Unsure how to add style to a particular section*/
 h1 {
 	font-weight: bold;
 	text-transform: uppercase;
