@@ -1,0 +1,149 @@
+body {
+font-family: Arial; 
+}
+
+header {
+	background-color: #000;
+	font-color: #FFF;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#hero {
+	display: block;
+	width: 100%;
+	margin: 0;
+	height: 250px;
+	width: 250px;
+	background: #000;
+}
+
+nav {
+	background-color: #fff;
+	font-color: #000;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+a {
+	background-color:#FFF;
+	color: #000;
+	text-decoration: none;
+	display: block;
+	float: left;
+	padding: 20px;
+	width:150px;
+}
+
+#news {
+	background-color: #000;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#news1 {
+	background-color: #fff;
+	border: 1px black solid;
+	padding: 0;
+	float: left;
+	width: 30%;
+}
+
+#newsimage1 {
+	background-color: #000;
+	border: 1px black solid;
+	padding: 0;
+	float: right;
+	width: 62%;
+}
+
+.clearfix: after{
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: " ";
+	clear: both;
+	height: 0;
+}
+
+#news2 {
+	background-color: pink;
+	border: 1px black solid;
+	padding: 20px;
+	float: right;
+	width: 62%;
+}
+
+.clearfix:after {
+	visibility: hidden;
+	display:block;
+	font-size: 0;
+	content: " ";
+	clear: both;
+	height: 0;
+}
+
+a:hover {
+	background-color: grey;
+}
+
+aside{
+	background-color: #FFF;
+	border: 1px black solid;
+	padding:20px;
+}
+
+footer{
+	background-color: #000;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+.news {
+	float:left;
+	background-color: #FFE2B8
+	border: 1px black solid;
+	padding:20px;
+}
+
+.radio {
+	float:left;
+	background-color: #FFE299
+	border: 1px black solid;
+	padding:20px;
+}
+
+.video {
+	float:left;
+	background-color: #FFE300
+	border: 1px black solid;
+	padding:20px;
+}
+
+h1 {
+	font-weight: bold;
+	font-color: #fff;
+	text-transform: uppercase;
+}
+
+h2 {
+	color: #000;
+}
+
+h3{
+	font-family: times new roman;
+	font-color: #fff;
+}
+
+li {
+
+}
+
+img{
+	width: 50%
+}
+
+
+
+
+
